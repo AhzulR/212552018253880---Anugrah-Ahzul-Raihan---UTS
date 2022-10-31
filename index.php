@@ -201,7 +201,7 @@
     // metode while dan do while
     // while(syarat)
 
-    echo "<br>--Metode while <br>--";
+    echo "<br>--Metode while--<br>";
     $i = 0;
     while($i < count($hewan)){
       echo $hewan[$i]. "<br>";
